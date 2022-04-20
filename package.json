@@ -1,0 +1,9 @@
+{
+  "name": "paper-bug",
+  "version": "1.0.0",
+  "main": "cli.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "paper-jsdom": "^0.12.15"
+  }
+}
